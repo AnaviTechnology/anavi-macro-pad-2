@@ -313,7 +313,7 @@
     (tags capacitor)
     (path /6013364C)
     (attr smd)
-    (fp_text reference C2 (at 0 -1.43) (layer F.SilkS)
+    (fp_text reference C2 (at 0 -1.55) (layer F.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     )
     (fp_text value 100nF (at 0.7375 1.65) (layer F.Fab)
